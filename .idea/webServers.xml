@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="e9c93215-6ca9-46d4-a277-25c5168b5615" name="rpgapp" url="http://2743383_ori@rpgapp.mygamesonline.org">
+        <fileTransfer host="2743383_ori@rpgapp.mygamesonline.org" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
